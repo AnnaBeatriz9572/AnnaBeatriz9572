@@ -1,32 +1,17 @@
 <h1 align="center">Anna Beatriz</h1>
-<p align="center">Meu espaço</p>
-
----
-
-### 👩‍💻 About Me
-
-- 🎓 Estudante de Engenharia de Computação  
-- 🌱 Atualmente aprendendo e aprimorando minhas habilidades em **C**, **C++**, **Python** e produtividade com **Notion**
-
----
-
-### 🛠️ Tech Stack
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+<p align="center">Ambiente de trabalho</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annabeatrizac&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annabeatrizac&layout=compact&theme=tokyonight" height="180"/>
+  <img align="center" alt="Anna-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Anna-Cpp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Anna-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Anna-Notion" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
+  <img align="center" alt="Anna-VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </p>
 
+---
+- 🎓 Estudante de Engenharia de Computação  
+- 🌱 Atualmente aprendendo e aprimorando minhas habilidades em **C**, **C++**, **Python** e produtividade com **Notion**
 ---
 
 ### 🔗 Let’s Connect
@@ -35,3 +20,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annabeatriz9572@gmail.com)
 
 ---
+
