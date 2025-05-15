@@ -1,5 +1,4 @@
 <h1 align="center">Anna Beatriz</h1>
-<p align="center">Ambiente de trabalho</p>
 
 <p align="center">
   <img align="center" alt="Anna-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -8,12 +7,6 @@
   <img align="center" alt="Anna-Notion" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
   <img align="center" alt="Anna-VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </p>
-
----
-- 🎓 Estudante de Engenharia de Computação  
-- 🌱 Atualmente aprendendo e aprimorando minhas habilidades em **C**, **C++**, **Python** e produtividade com **Notion**
----
-
 ### 🔗 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-beatriz-ara%C3%BAjo-cardoso-a0b980349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
