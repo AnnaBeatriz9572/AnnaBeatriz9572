@@ -28,21 +28,6 @@
 
 ---
 
-<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
-
-<p align="center">
-  <img align="center" alt="Anna-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Anna-Cpp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Anna-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Anna-VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Anna-Notion" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
-</p>
-
----
-
----
-
 <h2 align="center">📈 Minhas Estatísticas</h2>
 
 <div align="center">
