@@ -1,10 +1,31 @@
 <h1 align="center">Olá, eu sou a Anna Beatriz! 👋</h1>
+
 <p align="center">
-  <em>Graduanda em Engenharia de Computação na PUC Goiás (5º Período)</em>
+  <em>Graduanda em Engenharia de Computação · PUC Goiás (5º Período)</em>
 </p>
+
 <p align="center">
-  Sou apaixonada por tecnologia e inovação. Atualmente, foco meus estudos e projetos em <strong>Sistemas Embarcados</strong>, <strong>Robótica</strong> e <strong>Machine Learning</strong>.
+  Apaixonada por tecnologia e inovação, com foco em <strong>Sistemas Embarcados</strong>, <strong>Robótica</strong> e <strong>Ciência de Dados</strong>.<br/>
+  Busco aplicar conhecimento técnico em projetos reais que gerem impacto.
 </p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/annabeatrizac" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:annacardoso9572@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AnnaBeatriz9572">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎯%20Buscando%20Estágio%20em-Ciência%20de%20Dados-bd93f9?style=for-the-badge"/>
+</div>
 
 ---
 
@@ -16,48 +37,60 @@
 
 ---
 
+<h2 align="center">🚀 Sobre Mim</h2>
+
+<table align="center">
+  <tr>
+    <td>🎓</td>
+    <td>Engenharia de Computação — PUC Goiás (previsão de conclusão: 2027)</td>
+  </tr>
+  <tr>
+    <td>🔭</td>
+    <td>Desenvolvendo projetos de Ciência de Dados e ML no Kaggle</td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td>Aprendendo mais sobre Machine Learning, Análise de Dados e Redes Neurais</td>
+  </tr>
+  <tr>
+    <td>💡</td>
+    <td><strong>Disponível para estágio em Ciência de Dados / Machine Learning</strong></td>
+  </tr>
+  <tr>
+    <td>📍</td>
+    <td>Goiânia, GO — Brasil</td>
+  </tr>
+</table>
+
+---
+
 <h2 align="center">📂 Organização dos Projetos</h2>
+
 <p align="center">
-  Para manter meu portfólio organizado, dividi meus repositórios em organizações temáticas. <br>
-  <strong>Clique nos cards abaixo para acessar meus códigos:</strong>
+  Meus repositórios estão organizados por área de atuação.<br/>
+  <strong>Clique nos cards abaixo para explorar:</strong>
 </p>
 
 <div align="center">
 
-| **🤖 Microcontroladores & IoT** | **💻 Desenvolvimento & Softwares** |
-|:--------------------------------:|:-----------------------------------:|
-| Foco em ESP32, Arduino e C/C++ | Foco em Python, Estrutura de Dados e ML |
-| [**Acessar Repositórios**](https://github.com/orgs/Programacao-com-microcontroladores/repositories) | [**Acessar Repositórios**](https://github.com/orgs/Programacao-e-desenvolvimento/repositories) |
+| **🤖 Microcontroladores & IoT** | **💻 Desenvolvimento & Software** |
+|:--------------------------------:|:----------------------------------:|
+| ESP32, Arduino, C/C++ | Python, Estrutura de Dados, ML |
+| [**Ver Repositórios →**](https://github.com/orgs/Programacao-com-microcontroladores/repositories) | [**Ver Repositórios →**](https://github.com/orgs/Programacao-e-desenvolvimento/repositories) |
 
 </div>
 
 ---
 
-<h2 align="center">📈 Minhas Estatísticas</h2>
+<h2 align="center">📈 Estatísticas</h2>
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AnnaBeatriz9572&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnnaBeatriz9572&theme=dracula&locale=pt_BR"/>
 </div>
 
-<br>
-
-<h2 align="center">📊 Gráfico de Contribuições</h2>
+<br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnnaBeatriz9572&theme=dracula&bg_color=282a36&color=ff79c6&line=bd93f9&point=f8f8f2&hide_border=true" />
+  <em>📩 Entre em contato: <a href="mailto:annacardoso9572@gmail.com">annacardoso9572@gmail.com</a></em>
 </div>
-
-<br>
-
-<h2 align="center">🐍 Minhas Contribuições</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnnaBeatriz9572/AnnaBeatriz9572/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnnaBeatriz9572/AnnaBeatriz9572/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/AnnaBeatriz9572/AnnaBeatriz9572/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<br>
