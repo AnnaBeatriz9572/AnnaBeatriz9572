@@ -19,12 +19,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🎯%20Buscando%20Estágio%20em-Ciência%20de%20Dados-bd93f9?style=for-the-badge"/>
-</div>
-
----
-
 <h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
 
 <div align="center">
