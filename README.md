@@ -1,17 +1,22 @@
 <h1 align="center">Olá, eu sou a Anna Beatriz! 👋</h1>
-
 <p align="center">
   <em>Graduanda em Engenharia de Computação na PUC Goiás (5º Período)</em>
 </p>
-
 <p align="center">
   Sou apaixonada por tecnologia e inovação. Atualmente, foco meus estudos e projetos em <strong>Sistemas Embarcados</strong>, <strong>Robótica</strong> e <strong>Machine Learning</strong>.
 </p>
 
 ---
 
-<h2 align="center">📂 Organização dos Projetos</h2>
+<h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,vscode,notion&theme=dark" />
+</div>
+
+---
+
+<h2 align="center">📂 Organização dos Projetos</h2>
 <p align="center">
   Para manter meu portfólio organizado, dividi meus repositórios em organizações temáticas. <br>
   <strong>Clique nos cards abaixo para acessar meus códigos:</strong>
@@ -32,7 +37,6 @@
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AnnaBeatriz9572&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true&count_private=true"/>
-  
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnnaBeatriz9572&theme=dracula&locale=pt_BR"/>
 </div>
 
@@ -42,6 +46,18 @@
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnnaBeatriz9572&theme=dracula&bg_color=282a36&color=ff79c6&line=bd93f9&point=f8f8f2&hide_border=true" />
+</div>
+
+<br>
+
+<h2 align="center">🐍 Minhas Contribuições</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnnaBeatriz9572/AnnaBeatriz9572/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnnaBeatriz9572/AnnaBeatriz9572/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/AnnaBeatriz9572/AnnaBeatriz9572/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <br>
