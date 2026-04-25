@@ -24,7 +24,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,vscode,notion&theme=dark" />
 </div>
---
 
 <h2 align="center">📂 Organização dos Projetos</h2>
 
@@ -32,7 +31,7 @@
   Meus repositórios estão organizados por área de atuação.<br/>
   <strong>Clique nos cards abaixo para explorar:</strong>
 </p>
---
+
 
 <div align="center">
 
