@@ -25,35 +25,6 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,c,vscode,notion&theme=dark" />
 </div>
 
----
-
-<h2 align="center">🚀 Sobre Mim</h2>
-
-<table align="center">
-  <tr>
-    <td>🎓</td>
-    <td>Engenharia de Computação — PUC Goiás (previsão de conclusão: 2027)</td>
-  </tr>
-  <tr>
-    <td>🔭</td>
-    <td>Desenvolvendo projetos de Ciência de Dados e ML no Kaggle</td>
-  </tr>
-  <tr>
-    <td>🌱</td>
-    <td>Aprendendo mais sobre Machine Learning, Análise de Dados e Redes Neurais</td>
-  </tr>
-  <tr>
-    <td>💡</td>
-    <td><strong>Disponível para estágio em Ciência de Dados / Machine Learning</strong></td>
-  </tr>
-  <tr>
-    <td>📍</td>
-    <td>Goiânia, GO — Brasil</td>
-  </tr>
-</table>
-
----
-
 <h2 align="center">📂 Organização dos Projetos</h2>
 
 <p align="center">
@@ -70,16 +41,6 @@
 
 </div>
 
----
-
-<h2 align="center">📈 Estatísticas</h2>
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AnnaBeatriz9572&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnnaBeatriz9572&theme=dracula&locale=pt_BR"/>
-</div>
-
-<br/>
 
 <div align="center">
   <em>📩 Entre em contato: <a href="mailto:annacardoso9572@gmail.com">annacardoso9572@gmail.com</a></em>
