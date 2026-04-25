@@ -31,6 +31,7 @@
   Meus repositórios estão organizados por área de atuação.<br/>
   <strong>Clique nos cards abaixo para explorar:</strong>
 </p>
+</h2>
 
 
 <div align="center">
