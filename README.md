@@ -27,22 +27,28 @@
     <strong>Clica nos blocos abaixo para explorar:</strong>
   </p>
 
-  <table align="center" width="100%">
+  <table align="center" style="margin-left: auto; margin-right: auto;">
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="300">
+        <br>
         <b>🤖 Microcontroladores & IoT</b><br/>
-        ESP32, Arduino, C/C++<br/>
+        <small>ESP32, Arduino, C/C++</small><br/>
         <a href="https://github.com/orgs/Programacao-com-microcontroladores/repositories"><b>Ver Repositórios →</b></a>
+        <br><br>
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="300">
+        <br>
         <b>💻 Desenvolvimento & Software</b><br/>
-        Python, Estrutura de Dados, ML<br/>
+        <small>Python, Estrutura de Dados, ML</small><br/>
         <a href="https://github.com/orgs/Programacao-e-desenvolvimento/repositories"><b>Ver Repositórios →</b></a>
+        <br><br>
       </td>
     </tr>
   </table>
 
-  <br/><br/>
+  <br/>
   
-  <em>📩 Entre em contacto: <a href="mailto:annacardoso9572@gmail.com">annacardoso9572@gmail.com</a></em>
+  <p>
+    <em>📩 Entre em contato: <a href="mailto:annacardoso9572@gmail.com">annacardoso9572@gmail.com</a></em>
+  </p>
 </div>
