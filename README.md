@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Estudante%20de%20Engenharia%20da%20Computa%C3%A7%C3%A3o-1E1E1E?style=for-the-badge" />
 
-Me chamo Anna Beatriz Araújo Cardoso e sou de Goiânia, Brasil. Atualmente, estou no 5º período do curso de Engenharia da Computação na PUC Goiás. Estudo inteligência artificial, ciência de dados e robótica, com um interesse muito forte em aplicar a tecnologia na área médica. Hoje, atuo como pesquisadora de iniciação científica, e também participo de hackathons. Compartilho meus projetos, códigos e minha evolução nos estudos através do meu perfil no GitHub e Linkedin.
+Me chamo Anna Beatriz Araújo Cardoso e sou de Goiânia, Brasil. Atualmente, estou no 5º período do curso de Engenharia da Computação na PUC Goiás. Estudo inteligência artificial, ciência de dados e robótica, com um interesse muito forte em aplicar a tecnologia na área médica. Hoje, atuo como pesquisadora de iniciação científica. Compartilho meus projetos, códigos e minha evolução nos estudos através do meu perfil no GitHub e Linkedin.
 
 <p align="left">
   <a href="mailto:annacardoso9572@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
