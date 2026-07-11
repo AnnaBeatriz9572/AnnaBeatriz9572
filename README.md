@@ -88,18 +88,3 @@ Me chamo Anna Beatriz Araújo Cardoso e sou de Goiânia, Brasil. Atualmente, est
 <br/>
 <br/>
 ---
-
-### 📊 Estatísticas
-
-<p align="left">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnnaBeatriz9572&theme=tokyonight"
-  />
-  <img 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnnaBeatriz9572&theme=tokyonight"
-  />
-</p>
