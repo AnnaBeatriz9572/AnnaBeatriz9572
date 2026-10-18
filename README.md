@@ -2,7 +2,11 @@
 
 <img src="https://img.shields.io/badge/Estudante%20de%20Engenharia%20da%20Computa%C3%A7%C3%A3o-1E1E1E?style=for-the-badge" />
 
-Me chamo Anna Beatriz Araújo Cardoso e sou de Goiânia, Brasil. Atualmente, estou no 5º período do curso de Engenharia da Computação na PUC Goiás. Estudo inteligência artificial, ciência de dados e robótica, com um interesse muito forte em aplicar a tecnologia na área médica. Hoje, atuo como pesquisadora de iniciação científica. Compartilho meus projetos, códigos e minha evolução nos estudos através do meu perfil no GitHub e Linkedin.
+Me chamo Anna Beatriz Araújo Cardoso e sou de Goiânia, Brasil. Sou estudante do 6º período de Engenharia de Computação na PUC Goiás, com interesse em **Inteligência Artificial, Ciência de Dados, Sistemas Embarcados e Internet das Coisas (IoT)**.
+
+Além da graduação, atuo em pesquisas e no desenvolvimento de projetos tecnológicos, e já participei de maratonas de programação e competições voltadas à ciência de dados e à inovação. Também sou cofundadora e CTO da **TerraTech**, uma startup focada no desenvolvimento de soluções inteligentes para o agronegócio.
+
+Tenho especial interesse em projetos que integram **inteligência de dados, desenvolvimento de software e sistemas de hardware**, explorando tecnologias como aprendizado de máquina, gêmeos digitais e dispositivos inteligentes. Busco constantemente ampliar meus conhecimentos, enfrentar novos desafios e transformar ideias em soluções com aplicações reais.
 
 <p align="left">
   <a href="mailto:annacardoso9572@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
